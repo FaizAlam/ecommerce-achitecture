@@ -8,4 +8,4 @@ Services:
 <img src="https://github.com/FaizAlam/ecommerce-achitecture/blob/main/architecture.png">
 <br>
 <br>
-<img src="https://github.com/FaizAlam/ecommerce-achitecture/blob/main/architecture.png">
+<img src="https://github.com/FaizAlam/ecommerce-achitecture/blob/main/rabbitmq.png">
